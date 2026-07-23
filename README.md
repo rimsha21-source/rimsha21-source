@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="YOUR_IMAGE_URL" alt="Banner" width="700"/>
+</p>
 <h1 align="center">Hey, Rimsha here 👋</h1>
 <h3 align="center">Just a curious learner exploring technology through design, experimentation, and hands-on projects.</h3>
 
