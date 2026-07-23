@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Figma,Tensorflow,Opencv**
 
-- 📫 How to reach me **rimshamuqeet@gmail.com**
+
 
 
 
