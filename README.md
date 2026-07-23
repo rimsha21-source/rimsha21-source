@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL" alt="Banner" width="700"/>
+  <img src="https://github.com/rimsha21-source/rimsha21-source/blob/main/999588079793680712.webp?raw=true" alt="Banner" width="700"/>
 </p>
-<h1 align="center">Hey, Rimsha here 👋</h1>
+<h1 align="center">
+	Hey, Rimsha here 👋</h1>
 <h3 align="center">Just a curious learner exploring technology through design, experimentation, and hands-on projects.</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
